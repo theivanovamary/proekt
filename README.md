@@ -15,7 +15,7 @@
 
 В файле [lemmatization.py](https://github.com/sirius-my-love/proekt/blob/main/lemmatization.py) происходит лемматизация слов посредством библиотеки pymystem3.
 
-В файле [vectorize.py](https://github.com/sirius-my-love/proekt/blob/main/vectorize.py) 
+В файле [vectorize.py](https://github.com/sirius-my-love/proekt/blob/main/vectorize.py) производится векторизация.
 
 В последующем модель будет совершенсвоваться.
 ## Надеемся Вам понравится наш проект!)
